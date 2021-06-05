@@ -1,0 +1,19 @@
+.App {
+  background-color: #e6cdaf;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color:#281a03;
+  font-family: 'Times New Roman';
+  font-weight: 600;
+}
+
+
+.sun-icon {
+  position: absolute;
+  width: 20vh;
+  height: 20vh;
+  pointer-events: none;
+}
